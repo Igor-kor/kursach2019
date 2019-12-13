@@ -1,0 +1,6 @@
+G:\Desktop\учеба\программирование\kursach2019\kursach2019\bin\Debug\kursach2019.exe.config
+G:\Desktop\учеба\программирование\kursach2019\kursach2019\obj\Debug\kursach2019.csprojResolveAssemblyReference.cache
+G:\Desktop\учеба\программирование\kursach2019\kursach2019\bin\Debug\kursach2019.exe
+G:\Desktop\учеба\программирование\kursach2019\kursach2019\bin\Debug\kursach2019.pdb
+G:\Desktop\учеба\программирование\kursach2019\kursach2019\obj\Debug\kursach2019.exe
+G:\Desktop\учеба\программирование\kursach2019\kursach2019\obj\Debug\kursach2019.pdb
