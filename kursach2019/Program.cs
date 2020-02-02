@@ -10,18 +10,18 @@ namespace kursach2019
     {
         static void Main(string[] args)
         {
-            int xstart, xfinish, d, e;
+            double xstart, xfinish, d, e;
             double f = 0, sum = 0;
             Console.WriteLine("Х Начальное = ");
-            xstart = Convert.ToInt32(Console.ReadLine());
+            xstart = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Х Конечное = ");
-            xfinish = Convert.ToInt32(Console.ReadLine());
+            xfinish = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("D шаг = ");
-            d = Convert.ToInt32(Console.ReadLine());
+            d = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("E Точность = ");
-            e = Convert.ToInt32(Console.ReadLine());
+            e = Convert.ToDouble(Console.ReadLine());
 
-            for (int x = xstart; x < xfinish; x += d)
+            for (double x = xstart; x <= xfinish; x += d)
             {
           
                 for (int n = 0; n < e; n++)
